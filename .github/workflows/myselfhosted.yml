@@ -18,6 +18,7 @@ on:
         options:
           - 'LineageOS 20.0'
           - 'LineageOS 21.0'
+          - 'LMODroid 14'
           - 'ArrowOS 13.1'
           - 'DerpFest 13.0'
           - 'CipherOS 14'
